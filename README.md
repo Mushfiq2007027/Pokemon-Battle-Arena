@@ -1,4 +1,4 @@
-#  CSE 4110 Project: Pokemon Battle Arena: An AI Driven Strategy Game
+#  Pokemon Battle Arena: An AI Driven Strategy Game
 
 ## Introduction
 Pokemon Battle Arena is an immersive, AI-driven strategy game built with Python and Pygame, where smart agents use advanced algorithms to catch, train, and battle Pokemon in real-time. The game unfolds through three exciting phases — Catching, Elixir Collection, and Epic Battles — all guided by intelligent systems like A* pathfinding, Minimax with Alpha-Beta Pruning, and Fuzzy Logic. Each session offers a unique blend of skill and adaptive AI, making every match feel like a true test of strategy and precision.
